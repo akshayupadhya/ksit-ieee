@@ -6,6 +6,7 @@ module.exports = {
         filename: "./public/javascripts/bundle.js"
     },watch:true,
     module: {
+      
         loaders: [
             { test: /\.css$/, loader: "style!css" },
             {

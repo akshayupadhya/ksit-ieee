@@ -1,7 +1,6 @@
 import * as particleground from './javascripts/particleground/jquery.particleground.js';
 
 
-
 $(document).ready(function() {
   $(".button-collapse").sideNav();
   $('#biggbox').particleground({
