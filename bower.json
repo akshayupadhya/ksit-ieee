@@ -1,0 +1,17 @@
+{
+  "name": "ieee",
+  "description": "",
+  "main": "",
+  "authors": [
+    "akshay upadhya <akshaysrinagar@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
